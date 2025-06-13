@@ -16,7 +16,7 @@
   <a href="mailto:Farraheira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Raa29" target="_blank">
+  <a href="https://github.com/Raaa29" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
@@ -96,14 +96,14 @@ I believe in the extraordinary potential of data science to revolutionize how we
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Raa29">
+  <a href="https://github.com/Raaa29">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raaa29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaa29&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="Raa29" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="Raaa29" />
 </p>
 
 <p align="center">
