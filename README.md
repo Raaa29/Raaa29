@@ -102,9 +102,7 @@ I believe in the extraordinary potential of data science to revolutionize how we
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="Raaa29" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raaa29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophy Stats" />
