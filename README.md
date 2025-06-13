@@ -1,19 +1,81 @@
-<h1 align="center">Hi 👋, I'm Farraheira Panundaratrisna Fauziah</h1>
-<h3 align="center">Passionate About Programming and Artificial Intelligence.I am deeply interested in programming, particularly in the field of Artificial Intelligence. I enjoy exploring how data and algorithms can be used to solve complex problems and create innovative solutions. My goal is to continuously learn and contribute to impactful AI-driven projects.</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  
+  # Hi there, I'm Farraheira Panundaratrisna Fauziah 👋
+  
+  ### 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer
 
-- 🌱 I’m currently learning **advanced techniques in artificial intelligence, machine learning, and data science to deepen my expertise and stay updated with the latest innovations in the field.**
+  <a href="https://linkedin.com/in/farraheira-panundaratrisna-fauziah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/far.rarah" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:Farraheira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-- 👯 I’m looking to collaborate on **innovative projects in programming and artificial intelligence, where I can contribute my skills in data analysis, machine learning, and problem-solving to create impactful and intelligent solutions. Let’s build something amazing together!**
+## 🚀 About Me
 
-- 📫 How to reach me **Farraheira@gmail.com**
+Passionate about programming, particularly in the field of Artificial Intelligence. I enjoy exploring how data and algorithms can be used to solve complex problems and create innovative solutions. My goal is to continuously learn and contribute to impactful AI-driven projects.
 
-- ⚡ Fun fact **Fun Fact:I transform raw data into actionable insights using data science, AI, and machine learning, helping businesses make smarter, data-driven decisions.**
+- 🌱 I'm currently learning **advanced techniques in artificial intelligence, machine learning, and data science**
+- 👯 I'm looking to collaborate on **innovative AI and data science projects**
+- 💡 I transform raw data into actionable insights using data science and AI
+- 📫 Reach me at: **Farraheira@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farraheira panundaratrisna fauziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farraheira panundaratrisna fauziah" height="30" width="40" /></a>
-<a href="https://instagram.com/far.rarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="far.rarah" height="30" width="40" /></a>
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+### AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farrah2906&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrah2906&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 📌 Featured Projects
+
+- Coming Soon! Stay tuned for exciting AI and machine learning projects.
+
+## 🌟 Fun Fact
+
+I transform raw data into actionable insights using data science, AI, and machine learning, helping businesses make smarter, data-driven decisions.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=farrah2906&style=flat-square&color=blueviolet" alt="Profile views" />
+  
+  Thanks for visiting my profile! Let's connect and build something amazing together! 😊
+</div>
