@@ -97,17 +97,17 @@ I believe in the extraordinary potential of data science to revolutionize how we
 
 <p align="center">
   <a href="https://github.com/farrah2906">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farrah2906&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrah2906&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raaa29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaa29&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrah2906&theme=radical" alt="farrah2906" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="farrah2906" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farrah2906&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophy Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raaa29&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophy Stats" />
 </p>
 
 <div align="center">
@@ -153,7 +153,7 @@ I believe in the extraordinary potential of data science to revolutionize how we
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/farrah2906/github-readme-activity-graph">
+  <a href="https://github.com/Raaa29/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrah2906&theme=rogue&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
