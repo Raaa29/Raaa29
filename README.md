@@ -103,7 +103,7 @@ I believe in the extraordinary potential of data science to revolutionize how we
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="farrah2906" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaa29&theme=radical" alt="Raa29" />
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ I believe in the extraordinary potential of data science to revolutionize how we
 
 <p align="center">
   <a href="https://github.com/Raaa29/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrah2906&theme=rogue&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaa29&theme=rogue&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
