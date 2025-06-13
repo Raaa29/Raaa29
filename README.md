@@ -96,7 +96,7 @@ I believe in the extraordinary potential of data science to revolutionize how we
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/farrah2906">
+  <a href="https://github.com/Raa29">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raaa29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaa29&layout=compact&langs_count=8&theme=radical"/>
   </a>
